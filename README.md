@@ -43,7 +43,7 @@ Confira cada um dos passos a seguir:
 
 Para executar o cálculo de tendências propriamente dito, precisamos, em primeiro lugar, definir um conjunto de resultados que serão utilizados, que serão selecionados pelo leitor: *turno, cargo, tipo de pesquisa, abrangência e/ou institutos de pesquisas*.
 
-Utilizaremos, para este exemplo, os seguintes parâmetros: pesquisas de **Intenção de Voto para Presidente no 1º Turno**. Outros cenários, como a aprovação e avaliação do governo e a rejeição dos candidatos, seguirão os mesmos cálculos e métricas. O usuário também poderá adicionar ou retirar candidatos. Aqui, para fins ilustrativos, valos utilizar apenas o candidato **Lula**.
+Utilizaremos, para este exemplo, os seguintes parâmetros: pesquisas de **Intenção de Voto para Presidente no 1º Turno**. Outros cenários, como a aprovação e avaliação do governo e a rejeição dos candidatos, seguirão os mesmos cálculos e métricas. O usuário também poderá adicionar ou retirar candidatos. Aqui, para fins ilustrativos, vamos utilizar apenas o candidato **Lula**.
 
 **Pesquisas com o Candidato:** 
 
