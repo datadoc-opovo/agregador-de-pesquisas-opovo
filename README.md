@@ -47,7 +47,7 @@ Utilizaremos, para este exemplo, os seguintes parâmetros: pesquisas de **Inten�
 
 **Pesquisas com o Candidato:** 
 
-![dados_do_candidato.svg](MARKDOWN%20ae79cd6df9064d1fb0aa89ab0c515b46/dados_do_candidato.svg)
+![dados_do_candidato.svg](imagens_readme/dados_do_candidato.svg)
 
 1. **Pesos e médias diárias**
 
@@ -61,7 +61,7 @@ Nesta etapa, executamos os seguintes passos:
 
 **Gráfico dos pesos e médias diárias:** 
 
-![grafico_media_simples.svg](MARKDOWN%20ae79cd6df9064d1fb0aa89ab0c515b46/grafico_media_simples.svg)
+![grafico_media_simples.svg](imagens_readme/grafico_media_simples.svg)
 
 **Código:**
 
@@ -123,7 +123,7 @@ Além disso, neste período em que a frequência de pesquisas publicadas pelos i
 
 **Gráfico da média móvel ponderada**
 
-![grafico_media_movel.svg](MARKDOWN%20ae79cd6df9064d1fb0aa89ab0c515b46/grafico_media_movel.svg)
+![grafico_media_movel.svg](imagens_readme/grafico_media_movel.svg)
 
 ```jsx
 media_movel = {
